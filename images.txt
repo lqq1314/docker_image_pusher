@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 tensorflow/tensorflow:nightly-jupyter
+pgvector/pgvector:0.7.0-pg15
