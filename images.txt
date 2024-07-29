@@ -1,1 +1,1 @@
-qdrant/qdrant 
+chat2db/chat2db:latest
